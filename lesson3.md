@@ -22,6 +22,11 @@
 
 <img width="943" height="471" alt="image" src="https://github.com/user-attachments/assets/12abe65b-92b6-4ecf-bfe7-67e9b9f144ca" />
 
+Скрин с выполненым бинарником:
+
+<img width="1919" height="1079" alt="Binas1" src="https://github.com/user-attachments/assets/56efa241-7837-418a-853f-733bc1bb61d2" />
+
 ### Ответ: `arctf{p0inters}`
+
 
 
