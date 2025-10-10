@@ -12,7 +12,7 @@
 
 Чтобы получить пароль нужно проделать обратное (shr - сдвиг вправо). Например:
 
-Берем первый символ C2. Переводи его в 2-ную систему. `1100 0010`
+Берем первый символ C2. Переводим его в 2-ичную систему. `1100 0010`
 
 <img width="940" height="560" alt="image" src="https://github.com/user-attachments/assets/46f112d1-011d-4556-a0bb-e4cd931c5947" />
 
@@ -23,4 +23,5 @@
 <img width="943" height="471" alt="image" src="https://github.com/user-attachments/assets/12abe65b-92b6-4ecf-bfe7-67e9b9f144ca" />
 
 ### Ответ: `arctf{p0inters}`
+
 
