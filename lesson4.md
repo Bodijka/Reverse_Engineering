@@ -351,7 +351,7 @@ if __name__ == "__main__":
 
 ![alt text](./screenshots/bin13.png)
 
-### Ответ: `bin13.exe h n`
+### Ответ: `flag{hello_affine_cipher_i_can_brute_you}`
 
 # bin14.exe
 
