@@ -14,11 +14,11 @@
 
 | Раздел | Описание |
 | --- | --- |
-| `Crackme-1` | Первая crackme-задача. |
-| `Crackme-2` | Вторая crackme-задача. |
-| `NDV_Find` | Поиск НДВ (Недекларированные возможности). |
-| `WinAPIHash` | Разбор WinAPI-функций. |
-| `Other_bin` | Дополнительные бинарники. |
+| [`Crackme-1`](./Crackme-1/) | Первая crackme-задача. |
+| [`Crackme-2`](./Crackme-2) | Вторая crackme-задача. |
+| [`NDV_Find`](./NDV_Find) | Поиск НДВ (Недекларированные возможности). |
+| [`WinAPIHash`](./WinAPIHash) | Разбор WinAPI-функций. |
+| [`Other_bin`](./Other_bin) | Дополнительные бинарники. |
 
 
 
