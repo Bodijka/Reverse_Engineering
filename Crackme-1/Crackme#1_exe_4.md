@@ -1,6 +1,6 @@
 # Crackme #1 `4.exe`
 
-![alt text](/1.png)
+![alt text](./1.png)
 
 ## Ответы на вопросы
 
@@ -28,7 +28,7 @@
 ```
 ZlkntxTQ29rPlTxTu8SWbd2nz1pOL99zJjCeWIIi
 ```
-![alt text](/2.png)
+![alt text](./2.png)
 
 ### 6. Зачем дважды подряд вызывается WinAPI функция `RegQueryValueExA`
 
