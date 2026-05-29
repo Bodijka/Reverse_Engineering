@@ -4,7 +4,7 @@
 
 [KEY GEN / Python](/keygen.py)
 
-![alt text](Crackme-2/1.png)
+![alt text](./1.png)
 
 ## Проверка ключа:
 
