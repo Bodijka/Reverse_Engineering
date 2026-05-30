@@ -4,7 +4,7 @@
 
 [KEY GEN / Python](/keygen.py)
 
-![alt text](./1.png)
+![alt text](./screenshots/1.png)
 
 ## Проверка ключа:
 

@@ -1,11 +1,9 @@
-# Reverse_WinAPIHashing
+# Содержание по заданию: WinAPIHashing
 
-## Содержимое репозитория
 
 ```text
 .
-├── PE3.exe              # исследуемый бинарный файл
-├── WinAPI.md            # описание хода анализа
-└── Screenshoots_Func/   # скриншоты из x64dbg
+├── WriteUP_WinAPIHash.md   # описание хода анализа
+└── screenshots             # скриншоты всех 14 функций
 ```
 

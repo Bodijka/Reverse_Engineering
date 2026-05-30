@@ -18,7 +18,7 @@
 | [`Crackme-2`](./Crackme-2) | Вторая crackme-задача. |
 | [`NDV_Find`](./NDV_Find) | Поиск НДВ (Недекларированные возможности). |
 | [`WinAPIHash`](./WinAPIHash) | Разбор WinAPI-функций. |
-| [`Other_bin`](./Other_bin) | Дополнительные бинарники. |
+| [`Other_bin`](./Other_bin) | Другие бинарники. |
 
 
 

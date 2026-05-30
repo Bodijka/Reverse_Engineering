@@ -112,7 +112,7 @@ retn берет адрес со стека;
 
 То есть `retn` здесь используется не как обычный возврат, а как скрытый переход.
 
-![alt text](./assets/1.png)
+![alt text](./screenshots/1.png)
 
 Сстановится понятно:
 
@@ -167,7 +167,7 @@ for ( i = 0; i < 232; i += 4 )
 ```powershell
 powershell "Get-NetAdapter | Select Name, PromiscuousMode"
 ```
-![alt text](./assets/2.png)
+![alt text](./screenshots/2.png)
 
 ## 5. Запуск команды и проверка результата
 
@@ -245,7 +245,7 @@ http://192.168.0.135:80
 
 Это адрес C2.
 
-![alt text](./assets/3.png)
+![alt text](./screenshots/3.png)
 
 ## 7. Отправка данных
 
